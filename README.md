@@ -22,7 +22,7 @@ permitindo desenvolver aplicações em tempo real
 
 
 
-npm init
-npm express
-npm ejs
-npm socket.io
+- npm init
+- npm express
+- npm ejs
+- npm socket.io
