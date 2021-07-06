@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+body{
+  
+    background-image: url('../img/catspeech.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    
+}
+h1.title{
+    color: #dddfe0;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:rgb(89, 56, 102);
+}
+.chat{
+    width: 80vw;
+    height: 55vh;
+    padding: 3%;
+    overflow-x: hidden;
+    font-family: 'Otomanopee+One';
+    color: #2f0468;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color:rgb(8, 1, 44);
+}
+.boxfooter{
+    display: flexbox;
+    padding:2%;
+    color: #3e4b30;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 1.3rem;
+    color: #2f0468;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color:rgb(8, 1, 44);
+}
+.boxfooter input.textBoxP{
+    width: 240px;
+    height:40px;
+    border-radius: 5px;
+}
+input .texBoxM{
+    width: 240px;
+    height:40px;
+}
+.textBoxG{
+    width: 480px;
+    height:40px;
+}
+.btn{
+    width: 320px;
+    height: 80px;
+    background-color: #fff
+}
